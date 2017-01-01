@@ -3,12 +3,14 @@ A Simple TicTacToe that  use Min Max Algorithm
 # Screenshot
   <img src="https://raw.githubusercontent.com/AhmadNemati/TicTacToe-Min-Max-Algorithm-/master/art/device-2016-10-29-122159.png" align="middle"  width="250" height="502" />
   
-  
-#Developed By
+
 
 * Ahmad Nemati 
  * [ahmadnemati.com](http://ahmadnemati.com) - <nematiprog@gmail.com>
- 
+   
+#Special thanks to
+Professor Peyman Sheikh Alharam Mashhadi
+
 #تشکر ویژه از 
 دکتر پیمان شیخ الحرم مشهدی
 

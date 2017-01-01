@@ -9,8 +9,8 @@ A Simple TicTacToe that  use Min Max Algorithm
 * Ahmad Nemati 
  * [ahmadnemati.com](http://ahmadnemati.com) - <nematiprog@gmail.com>
  
-#Special thanks to
-Professor Peyman Sheikh Alharam Mashhadi
+#تشکر ویژه از 
+دکتر پیمان شیخ الحرم مشهدی
 
 #License
 
